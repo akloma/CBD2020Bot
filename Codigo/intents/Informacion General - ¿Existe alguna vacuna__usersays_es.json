@@ -1,0 +1,122 @@
+[
+  {
+    "id": "79db91f4-9935-4d44-94cf-2fd6712d015e",
+    "data": [
+      {
+        "text": "¿Existe alguna vacuna?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb6235d1-639d-4878-9612-9153decd5236",
+    "data": [
+      {
+        "text": "¿Hay vacuna?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8abe50f-e96c-4e4a-853c-414ee4b647f4",
+    "data": [
+      {
+        "text": "¿Cuánto tiempo tardará la vacuna?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "916dc3a6-7d9a-4161-a57b-0926894190cf",
+    "data": [
+      {
+        "text": "¿Cuándo habrá vacuna?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c3405b3-b72d-42ab-9215-8ad7789779cf",
+    "data": [
+      {
+        "text": "¿Existe algún medicamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c13ea72d-5beb-4788-83b5-a0596d04da5e",
+    "data": [
+      {
+        "text": "Medicamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04be21bc-d57c-48d4-86c3-7b3f3d42cac0",
+    "data": [
+      {
+        "text": "Tratamiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "335a074e-bfdd-4381-88c7-df0c54bd83fa",
+    "data": [
+      {
+        "text": "¿Hay algún tratamiento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b0c7f99-fee5-4f42-a4f7-595bafd33ba4",
+    "data": [
+      {
+        "text": "Cómo tratarla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3484c70-91ea-48db-ab2b-c5dbad1a86e5",
+    "data": [
+      {
+        "text": "¿Cómo tratarlo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "98839c37-6199-45dd-8d6d-2c162d4766ef",
+    "data": [
+      {
+        "text": "¿Cuánto tarda en incubar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bdfec94-6f45-402b-89d1-1544814b8ae3",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " el periodo de incubación?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5cf6708-7619-4b07-8f51-996c5e12ced7",
+    "data": [
+      {
+        "text": "¿Cuanto tarda en incubar el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53c6d7b4-520b-4e37-bdd3-5c6968c31c24",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " el periodo de incubación del ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

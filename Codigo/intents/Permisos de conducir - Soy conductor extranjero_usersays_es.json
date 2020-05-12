@@ -1,0 +1,110 @@
+[
+  {
+    "id": "915a2ab0-bcb7-4686-8f73-e2c15e896e9b",
+    "data": [
+      {
+        "text": "Soy conductor inmigrante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "413a6605-f5b7-4dc0-b462-19b6b66be1a3",
+    "data": [
+      {
+        "text": "Soy inmigrante, ¿qué pasa con ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " carnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe63dac2-de23-4c90-884c-dee38668dc5a",
+    "data": [
+      {
+        "text": "¿Qué pasa con ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " carnet si soy inmigrante?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26949704-8124-4e6b-a678-54d22ebd58cf",
+    "data": [
+      {
+        "text": "¿Qué pasa con ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " carnet si soy extranjero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81e213c5-8d8f-4547-90a5-615f31dc80c0",
+    "data": [
+      {
+        "text": "Soy de fuera, ¿qué pasa con ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " carnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "642c13f2-a59b-4636-8b3e-68f77babc1fe",
+    "data": [
+      {
+        "text": "Soy conductor extranjero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

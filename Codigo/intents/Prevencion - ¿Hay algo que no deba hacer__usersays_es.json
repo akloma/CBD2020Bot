@@ -1,0 +1,119 @@
+[
+  {
+    "id": "177a1de9-613e-4a28-872d-ac7dfc71a89c",
+    "data": [
+      {
+        "text": "¿Que no debo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125769fb-1c4d-4f73-af89-4544b24bdba9",
+    "data": [
+      {
+        "text": "¿Hay algo que no ",
+        "userDefined": false
+      },
+      {
+        "text": "deba",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff1e5ca6-bcca-4a1f-8349-58649c81c0d8",
+    "data": [
+      {
+        "text": "¿Qué no puedo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b77808f-b5ab-4502-adf3-aef718dc1ba6",
+    "data": [
+      {
+        "text": "¿Qué cosas no puedo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c1cd0ff-4688-4285-8b33-0d62f5c9e109",
+    "data": [
+      {
+        "text": "¿Qué cosas no debo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bad1f833-795c-4f4f-89ff-10194506a8a1",
+    "data": [
+      {
+        "text": "¿Qué no hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "340344de-90e8-460e-a0bc-e9dde45a0133",
+    "data": [
+      {
+        "text": "¿Qué no hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cae0c115-59e6-4fa9-9663-fca6e0b09a4f",
+    "data": [
+      {
+        "text": "Métodos no eficaces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9059dfd5-332c-40a1-a9e5-405d1f5a2303",
+    "data": [
+      {
+        "text": "Métodos que no debo usar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

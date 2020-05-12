@@ -1,0 +1,142 @@
+[
+  {
+    "id": "b523be17-8eb5-498e-a3ba-9bcd9d36788a",
+    "data": [
+      {
+        "text": "¿Cuánto tiempo sobrevive el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en la superficie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8e6fc9a-027f-4941-98dc-6b3685732fa9",
+    "data": [
+      {
+        "text": "Superficie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8cc84db-f8fc-4bb2-b3fd-661e1cbf6dea",
+    "data": [
+      {
+        "text": "¿Cuánto tiempo está el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "un sitio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93d4f150-29a7-48ab-8553-de160f734f79",
+    "data": [
+      {
+        "text": "¿Cuanto tiempo está el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " en la superficie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d271f1a-e9bd-4745-a789-f8fc4e71de7a",
+    "data": [
+      {
+        "text": "¿Cuánto aguanta el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " en la superficie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66bccd16-0217-43a9-a8b9-cca835f1aca2",
+    "data": [
+      {
+        "text": "¿Cuánto aguanta el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " en algún sitio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

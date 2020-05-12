@@ -1,0 +1,155 @@
+[
+  {
+    "id": "276a098d-6d25-4ea9-9b09-38dbceb3585c",
+    "data": [
+      {
+        "text": "¿Cuándo se acabará la cuarentena?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a5d7bda-f179-4594-90f4-b23b3937189e",
+    "data": [
+      {
+        "text": "Duración del confinamiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dee4d29-640f-4171-b20f-bbb3df5010db",
+    "data": [
+      {
+        "text": "¿Hasta cuando dura el confinamiento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43a0280e-d566-4710-9f30-70868788c902",
+    "data": [
+      {
+        "text": "¿Qué fases existen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a25f17d0-f504-4e2c-8453-76cc4f128d18",
+    "data": [
+      {
+        "text": "¿Qué fases hay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afef981e-d543-4af3-83bb-71d836a0c63c",
+    "data": [
+      {
+        "text": "¿Cuáles son las fases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc5e54ab-12a8-4cb1-b43d-9470565c845f",
+    "data": [
+      {
+        "text": "¿Cuándo ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la desescalada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17c1fd54-5e79-4098-92eb-6a4cfefc34d3",
+    "data": [
+      {
+        "text": "¿Fechas de las etapas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0c0b8a9-0ae1-416c-a3aa-ff3cc5afed61",
+    "data": [
+      {
+        "text": "Fechas de las etapas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9d605ed-d228-427d-bc79-5ac19c1d7a7c",
+    "data": [
+      {
+        "text": "Fechas de las etapas de la desescalada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "905cdf00-6c48-455f-b1af-20ccf087c778",
+    "data": [
+      {
+        "text": "Etapas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03c7dac9-1740-4ee9-937b-2dd32f7c263d",
+    "data": [
+      {
+        "text": "Desescalada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

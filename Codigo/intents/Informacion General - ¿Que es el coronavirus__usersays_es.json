@@ -1,0 +1,149 @@
+[
+  {
+    "id": "e6841f4e-0ac5-4114-9c85-e7c54bfb2312",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fd25d02-1877-459e-991c-be959bcc910b",
+    "data": [
+      {
+        "text": "Coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "486d06e9-7d79-412b-aa42-09b92e27020e",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dba3995e-e72b-416f-b3f9-67385612db21",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac6f42d5-4cc9-4d41-8762-42c64d9f160d",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

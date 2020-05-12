@@ -1,0 +1,83 @@
+[
+  {
+    "id": "a57342fd-19f4-4522-841e-445883049b1d",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " obligatorio llevar mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "180fcb81-f575-4242-87ec-c29ff4fadef7",
+    "data": [
+      {
+        "text": "¿Hay que llevar mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c1dacc6-0527-428e-9da8-a1f09bba6f07",
+    "data": [
+      {
+        "text": "¿Debo llevar mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d29eadc-3433-4912-9f9f-600c49b34766",
+    "data": [
+      {
+        "text": "Mascarilla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69ef49f8-a644-47b0-acaa-2a5fd7bd2238",
+    "data": [
+      {
+        "text": "¿Puedo usar mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32da9b81-16eb-48e7-baea-2aea5d107309",
+    "data": [
+      {
+        "text": "¿De qué sirve la mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

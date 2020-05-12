@@ -1,0 +1,74 @@
+[
+  {
+    "id": "473218ff-67a0-450b-a213-11045dd95b6d",
+    "data": [
+      {
+        "text": "¿Puedo usar el coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4db68589-ba39-422d-aa89-d11dd23bf7ca",
+    "data": [
+      {
+        "text": "¿Puedo coger el coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a427f9c-9d66-4116-aea8-0ca3944a180e",
+    "data": [
+      {
+        "text": "¿Puedo moverme con el coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87ffedfd-5d50-4133-ab79-4654a5654359",
+    "data": [
+      {
+        "text": "¿Puedo circular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16fe2202-6e54-4a1e-a9d2-ec0205011686",
+    "data": [
+      {
+        "text": "¿Cuándo puedo circular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6bb84d5-d9e9-4d95-856c-f0a98c4bfc50",
+    "data": [
+      {
+        "text": "¿En qué supuestos puedo circular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

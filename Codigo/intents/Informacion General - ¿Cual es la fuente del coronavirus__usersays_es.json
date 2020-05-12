@@ -1,0 +1,117 @@
+[
+  {
+    "id": "aae4a279-8f16-4f39-9b7a-01007d4a0a8b",
+    "data": [
+      {
+        "text": "¿De donde sale el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "133b0671-3a08-4440-920c-5cf6c5dbd64e",
+    "data": [
+      {
+        "text": "Origen del ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa6a02ef-0eee-418d-87de-6ef8e3f87fc3",
+    "data": [
+      {
+        "text": "¿De donde viene el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "204c1fee-7b93-468b-86a4-a8584afff1d2",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la fuente del ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "623628fd-a810-4dbc-bef2-de0971fca163",
+    "data": [
+      {
+        "text": "¿Dónde nació el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

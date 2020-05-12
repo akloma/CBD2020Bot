@@ -1,0 +1,50 @@
+[
+  {
+    "id": "55f8b038-7cd5-45b4-a4e0-c99e4f1703df",
+    "data": [
+      {
+        "text": "circulacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4b446b3-6bc3-48b7-8737-9925e3e05095",
+    "data": [
+      {
+        "text": "Conducir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acf30c2b-00fc-447e-aedf-cbf595fc4fb8",
+    "data": [
+      {
+        "text": "Circular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69f6c977-4f6e-4546-a9c7-f630faf1c15c",
+    "data": [
+      {
+        "text": "Circulación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

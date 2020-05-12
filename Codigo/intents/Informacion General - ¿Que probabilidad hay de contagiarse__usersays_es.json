@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f4acda22-9c1d-41cc-a915-6e448bcad1a1",
+    "data": [
+      {
+        "text": "¿Qué probabilidad existe de que me hayan contagiado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86a20a98-f490-497c-bbdc-6055391ab896",
+    "data": [
+      {
+        "text": "¿Me pueden haber contagiado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2293cfd-388a-4da6-b734-c47fafeda833",
+    "data": [
+      {
+        "text": "¿Puedo estar contagiado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f5b0a71-153a-48b4-80a9-b9ec81d5473c",
+    "data": [
+      {
+        "text": "¿Qué probabilidad hay de contagiarse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb8f6b0f-7857-4301-aba5-0526edc92607",
+    "data": [
+      {
+        "text": "Probabilidad de contagiarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a7be911-6f0b-4f6e-a368-e9767c66072c",
+    "data": [
+      {
+        "text": "Probabilidad de contagio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80574cb1-17b5-4ac4-8414-e1fd55ece731",
+    "data": [
+      {
+        "text": "Contagiarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00630ef2-8fee-4c3f-8039-483a8b044dfb",
+    "data": [
+      {
+        "text": "Contagio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9133efb3-2baf-4886-85b1-7ee5e31e8078",
+    "data": [
+      {
+        "text": "¿Me puedo contagiar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

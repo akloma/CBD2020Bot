@@ -1,0 +1,131 @@
+[
+  {
+    "id": "c28f4c6c-ee48-4025-9b12-2b2f74237ea7",
+    "data": [
+      {
+        "text": "¿Cómo debo comprar en ",
+        "userDefined": false
+      },
+      {
+        "text": "una tienda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47239c00-ef82-4c52-8656-9888128cffbe",
+    "data": [
+      {
+        "text": "¿Cómo debo comprar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6fc1dde-3fa2-4aaa-a645-58c1dc116814",
+    "data": [
+      {
+        "text": "¿Cómo debo ir a comprar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b0b1106-b392-4322-9a1f-f68ffb090521",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "seguridad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debo seguir en ",
+        "userDefined": false
+      },
+      {
+        "text": "una tienda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6bc0e8d-4dbe-403a-ab1d-e9297f1e4f0e",
+    "data": [
+      {
+        "text": "¿Puedo comprar con ",
+        "userDefined": false
+      },
+      {
+        "text": "seguridad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88c35656-b156-4655-a4ad-a9339aec4ec2",
+    "data": [
+      {
+        "text": "¿Qué puedo hacer para ir a comprar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6c7ec6e-fda5-4f15-aaca-be347e950379",
+    "data": [
+      {
+        "text": "¿Cómo comprar con ",
+        "userDefined": false
+      },
+      {
+        "text": "seguridad en una tienda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

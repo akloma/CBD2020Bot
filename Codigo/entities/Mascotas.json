@@ -1,0 +1,9 @@
+{
+  "id": "f183fabc-c50c-4036-90f5-d06209ba5808",
+  "name": "Mascotas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

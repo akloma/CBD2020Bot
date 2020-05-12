@@ -1,0 +1,158 @@
+[
+  {
+    "id": "a7aea3a2-8c0e-4c45-b6a0-c88a37efe1ab",
+    "data": [
+      {
+        "text": "¿A cuántos puedo montar en ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9118c42a-b7e8-4b6d-b618-93fafc5c7deb",
+    "data": [
+      {
+        "text": "¿A cuántos puedo llevar en ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89c81cf2-c5ed-40dc-b397-e723e663d0a1",
+    "data": [
+      {
+        "text": "¿Cuántas personas pueden ir en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4f80096-0c78-4864-a59f-91d2220b408b",
+    "data": [
+      {
+        "text": "Numero ",
+        "userDefined": false
+      },
+      {
+        "text": "máximo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de personas en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62b350f4-abcf-41c7-9f50-788c6749aa67",
+    "data": [
+      {
+        "text": "¿Cuánta gente se puede montar en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae0705f8-7c82-4eab-8c99-205993a7a1cb",
+    "data": [
+      {
+        "text": "¿Cuántos pueden ir en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vehículo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8190bc5b-6a4e-4c49-9091-e6bc0c9e4f90",
+    "data": [
+      {
+        "text": "¿Cuántos pasajeros pueden ir en ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vehículo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

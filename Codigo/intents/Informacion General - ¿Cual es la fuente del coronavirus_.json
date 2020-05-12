@@ -1,0 +1,44 @@
+{
+  "id": "4f9ca682-d51e-47e0-8af3-f50802f6f305",
+  "name": "Informacion General - ¿Cual es la fuente del coronavirus?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b3836e00-3855-403e-a08e-16efe2f30784",
+          "required": false,
+          "dataType": "@Coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

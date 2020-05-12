@@ -1,0 +1,32 @@
+{
+  "id": "a3160c0d-887d-4257-8ebe-8d08e722d22f",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "No he entendido a lo que te refieres. Puede que esa pregunta que has escrito no esté contemplada su respuesta en este bot, pero la intentaremos añadir en versiones futuras. ¡Perdona y por favor sigue preguntando!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

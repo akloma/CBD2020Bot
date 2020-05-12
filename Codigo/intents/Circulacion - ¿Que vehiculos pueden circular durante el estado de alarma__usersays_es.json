@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17278637-9088-4787-97be-104f58a9df8d",
+    "data": [
+      {
+        "text": "¿Qué vehículos pueden circular?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc49219c-08f4-4635-a85c-27ab823861f4",
+    "data": [
+      {
+        "text": "¿Quién puede circular durante el estado de alarma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78fc648c-ca58-42fe-933c-2eb587a84d03",
+    "data": [
+      {
+        "text": "¿Que vehículos pueden circular durante el estado de alarma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

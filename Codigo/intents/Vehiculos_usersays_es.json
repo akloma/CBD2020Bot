@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e525091e-048c-4f0e-b520-cfcc5fe00b20",
+    "data": [
+      {
+        "text": "Vehículo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20210b0b-8368-4252-90f8-ae12bfebdb61",
+    "data": [
+      {
+        "text": "Duda sobre vehículos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bf48abf-3c59-4fdb-8eb5-3e12beed2203",
+    "data": [
+      {
+        "text": "Vehículos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

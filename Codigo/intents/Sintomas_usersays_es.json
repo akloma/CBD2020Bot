@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1b79c477-3dd6-439b-856e-8693b9bda93c",
+    "data": [
+      {
+        "text": "Sintomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a57b686f-5db9-4ef6-9016-a3b526966393",
+    "data": [
+      {
+        "text": "¿Que sintomas tiene?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54405620-50fc-4561-82c3-c4cd00904664",
+    "data": [
+      {
+        "text": "¿Cuales son sus sintomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

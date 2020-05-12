@@ -1,0 +1,131 @@
+[
+  {
+    "id": "560e7511-0a79-4eb9-8ea6-a61a192a2dd0",
+    "data": [
+      {
+        "text": "¿Qué actividades puedo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd707777-413e-4def-bf9b-51f8c40ead4d",
+    "data": [
+      {
+        "text": "¿Qué actividades se pueden realizar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07806a44-07c2-40b1-b4f9-e4998a9639b7",
+    "data": [
+      {
+        "text": "Actividades que se pueden realizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04ed2c99-442e-446d-9142-12f0421f22e3",
+    "data": [
+      {
+        "text": "¿A que ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " puedo salir a pasear?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c9f814d-dd03-444b-87a6-5117494d1c7c",
+    "data": [
+      {
+        "text": "¿Cuándo se puede salir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd63b006-9a78-4fe1-ad1b-46a49d7ebdaa",
+    "data": [
+      {
+        "text": "¿Puedo salir ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aed7a3fe-c0b6-4eea-8baa-cf30ee9f31fb",
+    "data": [
+      {
+        "text": "¿Cuándo podré salir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caa9e1c0-1c5a-4f98-8da8-1e89e5ed2a1e",
+    "data": [
+      {
+        "text": "¿Cuándo puedo salir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7eea5f89-10bb-49a1-bc0d-4f2363a52bfa",
+    "data": [
+      {
+        "text": "Horarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be0ea64a-eea1-4836-81c0-b187e8cd052d",
+    "data": [
+      {
+        "text": "Horarios de salida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

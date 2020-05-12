@@ -1,0 +1,44 @@
+[
+  {
+    "id": "63e6abf1-e7a7-42cf-a0a7-df87a7b694cd",
+    "data": [
+      {
+        "text": "Estaba sacándome ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " permiso para conducir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f7071b-11e6-46e0-88a8-a57276a77681",
+    "data": [
+      {
+        "text": "Me estaba sacando ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " permiso para conducir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "8c3a5164-ba32-4fbf-9f14-5f4d4398fb9e",
+    "data": [
+      {
+        "text": "¿Cómo se pega el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aedc6743-35ae-4d59-be79-3ad76b937b9c",
+    "data": [
+      {
+        "text": "¿Cómo se propaga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dd92fa3-f5ce-483c-aa82-86b4b2dc676f",
+    "data": [
+      {
+        "text": "¿Cómo se pasa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64dcc587-e3b8-43e5-93bf-ae9901254fde",
+    "data": [
+      {
+        "text": "¿Cómo se extiende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74ce43b9-8dd2-4c0f-9610-61182eb2a1f4",
+    "data": [
+      {
+        "text": "¿Cómo se pasa el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba492208-1385-4c65-b55b-d78a0d1ff0a9",
+    "data": [
+      {
+        "text": "¿Cómo se extiende el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d0b2901-a5c2-48b4-8fc6-99597c720fe5",
+    "data": [
+      {
+        "text": "¿Cómo se propaga el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3a9abffd-cdd0-4ad3-9807-8ba0ae04ca37",
+    "data": [
+      {
+        "text": "¿Como ",
+        "userDefined": false
+      },
+      {
+        "text": "lo prevengo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c466fb36-028e-4067-989d-2e4c75c354e7",
+    "data": [
+      {
+        "text": "Prevencion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67bedf56-e901-411e-927d-bbdcd610c8bb",
+    "data": [
+      {
+        "text": "¿Que ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la prevencion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a75cad7-6138-48f5-8768-ede1c2453feb",
+    "data": [
+      {
+        "text": "¿Como me prevengo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16c1d524-688e-4bd2-b620-1296128215e3",
+    "data": [
+      {
+        "text": "Prevenir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

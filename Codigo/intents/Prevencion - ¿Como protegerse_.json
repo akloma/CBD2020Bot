@@ -1,0 +1,44 @@
+{
+  "id": "36eda1fe-b8b9-4b7d-a727-69dcfdb03121",
+  "name": "Prevencion - ¿Como protegerse?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0365fc12-fc76-4514-afa9-51a121ab9ed2",
+          "required": false,
+          "dataType": "@Coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

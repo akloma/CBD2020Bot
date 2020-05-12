@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b25a463d-702d-4792-b712-0d28223f0606",
+    "data": [
+      {
+        "text": "¿Cómo usar la mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27fa58f8-01ad-4872-bb4c-16ccc1809a94",
+    "data": [
+      {
+        "text": "¿Como se pone la mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e6cd66c-f89b-40c0-a7bc-89b09c6f5940",
+    "data": [
+      {
+        "text": "¿Cómo se ",
+        "userDefined": false
+      },
+      {
+        "text": "usa la",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd747ada-959f-40a1-8bbe-676f049bb3c4",
+    "data": [
+      {
+        "text": "¿Qué hago con ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9384384b-8572-4de0-87a5-a00d29813888",
+    "data": [
+      {
+        "text": "¿Cómo utilizo la mascarilla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

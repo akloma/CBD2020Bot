@@ -1,0 +1,63 @@
+[
+  {
+    "id": "40a42e46-0726-4e1e-95e9-09db9580f08e",
+    "data": [
+      {
+        "text": "Miscelanea",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56565d49-c2ed-4031-a23e-a45276900105",
+    "data": [
+      {
+        "text": "Otras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5360e3e3-4e1f-4a44-8ae5-5cef23801c2a",
+    "data": [
+      {
+        "text": "Otros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdb951ed-a72b-4ee8-a695-3d11ae4ddf0e",
+    "data": [
+      {
+        "text": "Mas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3420bd3-ff11-4fc7-a646-45726180550e",
+    "data": [
+      {
+        "text": "Miscelaneas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

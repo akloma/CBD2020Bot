@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4d58ed35-9eed-48d6-b456-d554bfd0696c",
+    "data": [
+      {
+        "text": "Permisos de conducir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aab16a8-a97b-431a-93b3-d7a47d58a316",
+    "data": [
+      {
+        "text": "Conducir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a171b74-3483-499e-a75a-303539f87bc4",
+    "data": [
+      {
+        "text": "Permisos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

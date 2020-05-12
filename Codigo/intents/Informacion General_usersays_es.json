@@ -1,0 +1,72 @@
+[
+  {
+    "id": "c702d30e-c329-4480-80f6-daf2ed5814ab",
+    "data": [
+      {
+        "text": "General",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb4ddb24-8f9c-47ee-8af7-e359a5b6e7e6",
+    "data": [
+      {
+        "text": "Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e903713-56f3-4abf-ac22-9efbcf9234dd",
+    "data": [
+      {
+        "text": "Informacion general",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cff0e5bd-53ec-41e6-acf4-65eabb69249a",
+    "data": [
+      {
+        "text": "Quiero saber informacion general",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72638086-94e6-4063-8c7a-8d164daf6821",
+    "data": [
+      {
+        "text": "Dime ",
+        "userDefined": false
+      },
+      {
+        "text": "la informacion",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " general",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

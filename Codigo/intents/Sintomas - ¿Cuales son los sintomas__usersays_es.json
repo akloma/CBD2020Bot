@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6b4dfd4a-0014-4b75-9283-92282062b6d9",
+    "data": [
+      {
+        "text": "¿Tengo síntomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "639bbcdd-b440-45d6-b835-9c769b561e20",
+    "data": [
+      {
+        "text": "Cuéntame los síntomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fb216c9-ab45-4c54-be1f-fa19ca9933db",
+    "data": [
+      {
+        "text": "Dime los síntomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78370db9-98db-40c1-b0ff-1bd3e2ea482d",
+    "data": [
+      {
+        "text": "¿Qué síntomas hay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45e13b4b-3829-4454-a680-7ab6811e7aae",
+    "data": [
+      {
+        "text": "Síntomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "894ebf02-ac98-40e8-8521-1c3987c50b05",
+    "data": [
+      {
+        "text": "¿Qué síntomas existen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cddbfd1a-df40-4105-96fe-ad1c8a8c3e7b",
+    "data": [
+      {
+        "text": "¿Cuales son los síntomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

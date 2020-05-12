@@ -1,0 +1,65 @@
+[
+  {
+    "id": "59e33c8e-0f95-4e61-bf6c-15b9d3d040e6",
+    "data": [
+      {
+        "text": "Renting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b219858d-b692-4d28-b642-b629b3b76d04",
+    "data": [
+      {
+        "text": "¿Puedo alquilar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vehículo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e35c64d-63ec-459e-9647-f35da32f786f",
+    "data": [
+      {
+        "text": "¿Puedo alquilar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vehículo en ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " compañía de renting?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

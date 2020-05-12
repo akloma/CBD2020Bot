@@ -1,0 +1,74 @@
+[
+  {
+    "id": "10d7f589-92f1-49ee-8455-05cb0126bff3",
+    "data": [
+      {
+        "text": "ITV",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97b374f1-cd37-435f-83aa-a683811b49fa",
+    "data": [
+      {
+        "text": "Me caduca ",
+        "userDefined": false
+      },
+      {
+        "text": "la ITV",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4dd8379-6dc2-485e-b9b7-8e7c3b67f2e1",
+    "data": [
+      {
+        "text": "¿Qué pasa si me caduca ",
+        "userDefined": false
+      },
+      {
+        "text": "la ITV",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7239acaf-3590-4fb6-98c5-f7971af878ee",
+    "data": [
+      {
+        "text": "¿Qué pasa si me caduca ",
+        "userDefined": false
+      },
+      {
+        "text": "la ITV",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " durante el estado de alarma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

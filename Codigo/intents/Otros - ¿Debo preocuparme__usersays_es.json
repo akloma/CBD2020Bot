@@ -1,0 +1,62 @@
+[
+  {
+    "id": "41b6978a-e880-4512-a48b-e4c4027d31c9",
+    "data": [
+      {
+        "text": "¿Debo estar atento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15517997-b360-43f2-9e42-cb20106595dc",
+    "data": [
+      {
+        "text": "Estoy preocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e5b3d06-4ca7-4203-9d2a-f45dc058d53f",
+    "data": [
+      {
+        "text": "¿Me debo preocupar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6063d13e-ce0e-4d22-8a26-af831ea5883d",
+    "data": [
+      {
+        "text": "¿Tengo que preocuparme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "622b2eb5-4939-4f3d-ab88-2d2a2917c229",
+    "data": [
+      {
+        "text": "¿Debo preocuparme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

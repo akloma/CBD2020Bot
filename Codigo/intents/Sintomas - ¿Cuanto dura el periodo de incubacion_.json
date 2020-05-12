@@ -1,0 +1,44 @@
+{
+  "id": "48d4efd9-b556-4851-b88a-c756e0dcd66c",
+  "name": "Sintomas - ¿Cuanto dura el periodo de incubacion?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fc7d8c93-d22f-4909-98cb-a90de4330581",
+          "required": false,
+          "dataType": "@Coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

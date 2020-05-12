@@ -1,0 +1,74 @@
+[
+  {
+    "id": "d4704335-f70f-4d8c-9669-1219fa05dbb4",
+    "data": [
+      {
+        "text": "¿Quienes pueden ser más afectados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f33c8955-0a77-434f-97cc-17b0b73a3309",
+    "data": [
+      {
+        "text": "¿A quién afecta mas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "735fbe40-4378-4275-aad6-0bd91dd4e89c",
+    "data": [
+      {
+        "text": "¿Quienes corren peligro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4e3cb97-1f1b-4369-9952-5aa2ae376a2d",
+    "data": [
+      {
+        "text": "¿Quienes están mas en peligro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "199f0461-eb4a-4e3c-aa1a-2b23d5d7ebec",
+    "data": [
+      {
+        "text": "¿Quienes corren más riesgo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a51aeea-23da-4e24-9dcd-f7a0fb37a584",
+    "data": [
+      {
+        "text": "¿Quién corre más riesgo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

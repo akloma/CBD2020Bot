@@ -1,0 +1,44 @@
+{
+  "id": "9ae1343f-b44e-4ecb-a618-5e828cf79f31",
+  "name": "Informacion General - ¿Cuanto tiempo sobrevive el coronavirus en la superficie?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "76f70cfb-425f-4d6e-a60a-a8c14196b092",
+          "required": false,
+          "dataType": "@Coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

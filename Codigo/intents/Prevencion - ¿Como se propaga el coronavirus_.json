@@ -1,0 +1,44 @@
+{
+  "id": "83ae2601-b966-448f-b1f2-8a756213762f",
+  "name": "Prevencion - ¿Como se propaga el coronavirus?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d9d9c16-773a-4bdf-b608-0b37ca918dd1",
+          "required": false,
+          "dataType": "@Coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

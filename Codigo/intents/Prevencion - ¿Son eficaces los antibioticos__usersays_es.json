@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ed64cf9d-c49f-4899-87cf-e827a1c3ab7b",
+    "data": [
+      {
+        "text": "¿Son eficaces los antibióticos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "660f8068-07a5-4326-a93a-bfd067cfecf8",
+    "data": [
+      {
+        "text": "Antibióticos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24b9c01a-33cd-4aed-8278-90f87480bc2d",
+    "data": [
+      {
+        "text": "¿Valen los antibióticos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b567b50f-033c-4af9-a8f3-c1d3d47d90de",
+    "data": [
+      {
+        "text": "¿Sirven los antibioticos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c23ca792-f64b-4485-b8ab-07429aa227a0",
+    "data": [
+      {
+        "text": "¿Puedo usar antibióticos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33b75b49-69e4-4f61-9e1b-69f1aa742665",
+    "data": [
+      {
+        "text": "¿Qué puedo usar para prevenirlo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

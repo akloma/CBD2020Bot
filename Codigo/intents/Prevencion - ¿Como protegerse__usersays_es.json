@@ -1,0 +1,163 @@
+[
+  {
+    "id": "166ee2c1-6f83-4fce-acf4-12f02456c94f",
+    "data": [
+      {
+        "text": "Aconséjame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87818b4c-8a61-4836-b725-3e59e353e684",
+    "data": [
+      {
+        "text": "Dime algún consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3328dfb3-2445-4d94-9e71-737f6a776fb3",
+    "data": [
+      {
+        "text": "Dame algún consejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e8acb78-f4c9-4ec0-a9b8-8280b626ecdd",
+    "data": [
+      {
+        "text": "¿Cómo protejo a ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " familia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb471f5b-2a13-4fc3-bcb1-3a464e7826ad",
+    "data": [
+      {
+        "text": "¿Cómo me protejo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e8ee605-5fe5-4481-bdbd-7dc9fdaa069c",
+    "data": [
+      {
+        "text": "¿Cómo protegerse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18d53b4f-185f-417a-9988-d602b222633d",
+    "data": [
+      {
+        "text": "¿Qué puedo hacer para protegerme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f363cfa0-8545-4fbf-8e03-ffa107c7bb03",
+    "data": [
+      {
+        "text": "¿Qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea0fa0da-ff8f-468b-bfe8-e0d445bc7eeb",
+    "data": [
+      {
+        "text": "¿Qué hay que hacer para protegerse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82444ae7-8cc0-44c5-aee1-7f667a1e87b6",
+    "data": [
+      {
+        "text": "¿Cómo protegerse contra el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1953138-12bc-4838-9bf1-795cd67c4f08",
+    "data": [
+      {
+        "text": "¿Qué hacer contra el ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "coronavirus",
+        "meta": "@Coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

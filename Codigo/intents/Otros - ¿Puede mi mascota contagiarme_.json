@@ -1,0 +1,44 @@
+{
+  "id": "8f32ad27-c8a4-4104-84b8-346abc20cabb",
+  "name": "Otros - ¿Puede mi mascota contagiarme?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "05b0bfcb-9941-4aa9-9fb5-094871408c64",
+          "required": false,
+          "dataType": "@Mascotas",
+          "name": "mascotas",
+          "value": "$mascotas",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

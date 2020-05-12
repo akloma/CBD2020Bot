@@ -1,0 +1,64 @@
+[
+  {
+    "id": "26c9ba57-c61c-4b02-a46e-09695713a711",
+    "data": [
+      {
+        "text": "Salidas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51f1f213-b7e2-4ddf-861b-75103fdfdfda",
+    "data": [
+      {
+        "text": "Autorizadas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f88e3a9c-1e33-4764-b9f3-eb94a1bb4684",
+    "data": [
+      {
+        "text": "Salidas autorizadas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a81c7998-5dc9-449f-a93d-757a44dfa26b",
+    "data": [
+      {
+        "text": "Salir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77acbc2a-3d23-4472-bbbb-72a30c05809a",
+    "data": [
+      {
+        "text": "Autorizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

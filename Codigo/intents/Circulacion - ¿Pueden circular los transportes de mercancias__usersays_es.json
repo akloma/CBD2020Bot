@@ -1,0 +1,57 @@
+[
+  {
+    "id": "e1804533-9f0c-42ea-874e-8f3132c7e719",
+    "data": [
+      {
+        "text": "¿Qué pasa con ",
+        "userDefined": false
+      },
+      {
+        "text": "los transportes de mercancías",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8683ba0-e3d7-41ff-95bc-a1a7d70c3497",
+    "data": [
+      {
+        "text": "Transportes de mercancías",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c61ca5da-7a2f-4f8d-8092-ca85ac37ae19",
+    "data": [
+      {
+        "text": "¿Pueden circular ",
+        "userDefined": false
+      },
+      {
+        "text": "los transportes de mercancías",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

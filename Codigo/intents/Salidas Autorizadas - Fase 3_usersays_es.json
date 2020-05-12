@@ -1,0 +1,87 @@
+[
+  {
+    "id": "9f8b9a8f-dbe0-496d-af8d-8bade5cac128",
+    "data": [
+      {
+        "text": "¿Qué se puede hacer en la fase ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15068a3d-818c-4308-a4a1-23e5009924c5",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " la fase ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ece23fd-4d7d-40d7-816a-ac84fb46ec67",
+    "data": [
+      {
+        "text": "¿Qué pasa en la fase ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b06d2bf-f452-4bd3-b38a-2491b2b029f0",
+    "data": [
+      {
+        "text": "Fase 3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

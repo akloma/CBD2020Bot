@@ -1,0 +1,126 @@
+[
+  {
+    "id": "42533c8f-420e-4c15-ae7d-6c2ff2afc297",
+    "data": [
+      {
+        "text": "¿Me lo puede pasar ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mascota",
+        "alias": "mascotas",
+        "meta": "@Mascotas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3149d5d9-809f-4755-b84b-dea2bbc73db2",
+    "data": [
+      {
+        "text": "¿Me puede contagiar ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mascota",
+        "alias": "mascotas",
+        "meta": "@Mascotas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b54248f-502f-4483-8723-2c7d54a585b0",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mascota",
+        "alias": "mascotas",
+        "meta": "@Mascotas",
+        "userDefined": false
+      },
+      {
+        "text": " me lo puede pasar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bb76b72-3489-4b5e-9e3a-2e6d114465ea",
+    "data": [
+      {
+        "text": "¿Puede ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mascota",
+        "alias": "mascotas",
+        "meta": "@Mascotas",
+        "userDefined": false
+      },
+      {
+        "text": " contagiarme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

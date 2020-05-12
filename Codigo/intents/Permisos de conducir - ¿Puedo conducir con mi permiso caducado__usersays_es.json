@@ -1,0 +1,80 @@
+[
+  {
+    "id": "9d186032-4412-46c4-9378-252470dd25d6",
+    "data": [
+      {
+        "text": "¿Qué pasa con ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " permiso caducado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "456e181b-2d56-423c-94c2-a572536b2a03",
+    "data": [
+      {
+        "text": "Tengo el permiso caducado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00c95d7c-6792-4b8d-91d9-932ec35fa159",
+    "data": [
+      {
+        "text": "Permiso caducado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e78c5498-9d35-40a7-945d-bfea1eb3ce63",
+    "data": [
+      {
+        "text": "¿Puedo conducir con el permiso caducado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1600b0b-05c6-4e92-91f3-2cbd778532ed",
+    "data": [
+      {
+        "text": "¿Puedo conducir con ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " permiso caducado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

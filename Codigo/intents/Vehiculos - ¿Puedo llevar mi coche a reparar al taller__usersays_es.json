@@ -1,0 +1,82 @@
+[
+  {
+    "id": "7c6628a9-3c9c-4ba3-b229-91345320ad98",
+    "data": [
+      {
+        "text": "¿Puedo llevar ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche a reparar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78519cde-177a-4b32-9b28-24ca91452037",
+    "data": [
+      {
+        "text": "Llevar el coche al ",
+        "userDefined": false
+      },
+      {
+        "text": "taller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bec35d3-a3ff-44d9-870b-06ff57632642",
+    "data": [
+      {
+        "text": "Llevar el coche a reparar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "defef0c7-3117-46f4-837b-6f8937017c35",
+    "data": [
+      {
+        "text": "¿Puedo llevar ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " coche a reparar al ",
+        "userDefined": false
+      },
+      {
+        "text": "taller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
